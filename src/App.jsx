@@ -5,7 +5,7 @@ import Hero from "./components/Home-one/Hero/Hero";
 import Navbar from "./components/Home-one/Navbar/Navbar";
 import "aos/dist/aos.css";
 import Offer from "./components/Home-one/OFFER/Offer";
-import Testimonials from "./components/Home-one/testimonials/testimonials";
+import Testimonials from "./components/Home-one/testimonials/Testimonials";
 import TrendingCourse from "./components/Home-one/Courses/TrendingCourse";
 import Footer from "./components/Home-one/Footer/Footer";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
